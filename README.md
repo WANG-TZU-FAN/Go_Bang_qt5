@@ -27,9 +27,9 @@ Basic requirements
 1. Show Chesses and board on the screen  ----------------------------------------- done
 2. Compete with computer  -------------------------------------------------------- done
 3. The size of board is 15 × 15  ------------------------------------------------- done
-4. Lose when your number of life becomes 0 or out of time ------------------------ done
-5. Black chess played first ------------------------------------------------------ done
-6. Play one chess per turn ---------------------------------------------------------- done
+4. Lose when your number of life becomes 0 or out of time ---------------------- done
+5. Black chess played first ----------------------------------------------------------- done
+6. Play one chess per turn ----------------------------------------------------------- done
 7. Win if 5 of your chess connected in a row/column/diagonal  ------------------- done
 8. If more than 5 chess connected, continue the game  ---------------------------- done
 9. If no chess can win until the board is out of space, the game ended in a tie --- done

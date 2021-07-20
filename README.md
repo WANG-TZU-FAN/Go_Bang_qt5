@@ -38,6 +38,6 @@ Basic requirements
 Bonus
 ------
 1. Decide order ------------------------------------------------------------------ done
-2. Ability of computer (Mentioned in Report) ---------------------------------- done
+2. Ability of computer (Mentioned in Report) ------------------------------------- done
 3. Undo -------------------------------------------------------------------------- done
 4. Time limitation --------------------------------------------------------------- done

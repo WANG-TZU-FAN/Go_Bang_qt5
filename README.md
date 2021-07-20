@@ -24,21 +24,20 @@ Compilation Guide
 
 Basic requirements
 ------------------
-Show Chesses and board on the screen  ----------------------------------------- done
-Compete with computer  -------------------------------------------------------- done
-The size of board is 15 × 15  ------------------------------------------------- done
-Lose when your number of life becomes 0 or out of time ------------------------ done
-Black chess played first ------------------------------------------------------ done
-Play one chess per turn ------------------------------------------------------- done
-Win if 5 of your chess connected in a row/column/diagonal  -------------------- done
-If more than 5 chess connected, continue the game  ---------------------------- done
-If no chess can win until the board is out of space, the game ended in a tie -- done
-Use keyboard arrow key or mouse to play the chess ----------------------------- done
-Project report  --------------------------------------------------------------- done
+1. Show Chesses and board on the screen  ----------------------------------------- done
+2. Compete with computer  -------------------------------------------------------- done
+3. The size of board is 15 × 15  ------------------------------------------------- done
+4. Lose when your number of life becomes 0 or out of time ------------------------ done
+5. Black chess played first ------------------------------------------------------ done
+6. Play one chess per turn ------------------------------------------------------- done
+7. Win if 5 of your chess connected in a row/column/diagonal  -------------------- done
+8. If more than 5 chess connected, continue the game  ---------------------------- done
+9. If no chess can win until the board is out of space, the game ended in a tie -- done
+10. Use keyboard arrow key or mouse to play the chess ---------------------------- done
 
 Bonus
 ------
-Decide order with animation --------------------------------------------------- half
-Ability of computer (Mentioned in Report) ------------------------------------- done
-Undo -------------------------------------------------------------------------- done
-Time limitation --------------------------------------------------------------- done
+1. Decide order ------------------------------------------------------------------ done
+2. Ability of computer (Mentioned in Report) ------------------------------------- done
+3. Undo -------------------------------------------------------------------------- done
+4. Time limitation --------------------------------------------------------------- done

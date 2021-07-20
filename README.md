@@ -24,8 +24,8 @@ Compilation Guide
 
 Basic requirements
 ------------------
-1. Show Chesses and board on the screen  ----------------------------------------- done
-2. Compete with computer  --------------------------------------------------------- done
+1. Show Chesses and board on the screen  -----------------------------------------   done
+2. Compete with computer  ---------------------------------------------------------  done
 3. The size of board is 15 × 15  ------------------------------------------------------ done
 4. Lose when your number of life becomes 0 or out of time ---------------------- done
 5. Black chess played first ----------------------------------------------------------- done
